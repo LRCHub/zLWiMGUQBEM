@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Wonderful & Beautiful",
+  "base_artist": "レミオロメン",
+  "createdAt": "2025-12-23T03:11:54.835038Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A Wonderful Day",
+      "artist": "馮曦妤",
+      "has_synced": true,
+      "path": "select/01_A_Wonderful_Day_馮曦妤.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "A Wonderful Day",
+      "artist": "冯曦妤",
+      "has_synced": true,
+      "path": "select/02_A_Wonderful_Day_冯曦妤.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Wonderful Place",
+      "artist": "N.E.R.D",
+      "has_synced": true,
+      "path": "select/03_Wonderful_Place_N.E.R.D.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wonderful World",
+      "artist": "Otis Redding",
+      "has_synced": true,
+      "path": "select/04_Wonderful_World_Otis_Redding.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Somewhere Over the Rainbow / What a Wonderful World",
+      "artist": "Robin Schulz feat. Alle Farben & Israel Kamakawiwo'ole",
+      "has_synced": true,
+      "path": "select/05_Somewhere_Over_the_Rainbow___What_a_Wonderful_World_Robin_Schulz_feat._Alle_Farben_&_Israel_Kamakawiwo'ole.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Everythings Just Wonderful",
+      "artist": "Lily Allen",
+      "has_synced": true,
+      "path": "select/06_Everythings_Just_Wonderful_Lily_Allen.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Life Is Wonderful",
+      "artist": "Jason Mraz",
+      "has_synced": true,
+      "path": "select/07_Life_Is_Wonderful_Jason_Mraz.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "What a Wonderful World",
+      "artist": "The Innocence Mission",
+      "has_synced": true,
+      "path": "select/08_What_a_Wonderful_World_The_Innocence_Mission.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Most Wonderful Girl",
+      "artist": "Lords of Acid",
+      "has_synced": true,
+      "path": "select/09_The_Most_Wonderful_Girl_Lords_of_Acid.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Welcome to the Wonderful World Of",
+      "artist": "LSD feat. Sia, Diplo & Labrinth",
+      "has_synced": true,
+      "path": "select/10_Welcome_to_the_Wonderful_World_Of_LSD_feat._Sia,_Diplo_&_Labrinth.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Welcome to the Wonderful World of",
+      "artist": "LSD",
+      "has_synced": true,
+      "path": "select/11_Welcome_to_the_Wonderful_World_of_LSD.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "What A Wonderful Man",
+      "artist": "My Morning Jacket",
+      "has_synced": true,
+      "path": "select/12_What_A_Wonderful_Man_My_Morning_Jacket.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Something Wonderful",
+      "artist": "Nina Simone",
+      "has_synced": true,
+      "path": "select/13_Something_Wonderful_Nina_Simone.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sure Had A Wonderful Time Last Night",
+      "artist": "B.B. King",
+      "has_synced": true,
+      "path": "select/14_Sure_Had_A_Wonderful_Time_Last_Night_B.B._King.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "What A Wonderful World",
+      "artist": "B.B. King",
+      "has_synced": true,
+      "path": "select/15_What_A_Wonderful_World_B.B._King.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Wonderful Tonight - Live",
+      "artist": "Eric Clapton",
+      "has_synced": false,
+      "path": "select/16_Wonderful_Tonight_-_Live_Eric_Clapton.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Wonderful & Beautiful",
+      "artist": "レミオロメン",
+      "has_synced": false,
+      "path": "select/pl_01_Wonderful_&_Beautiful_レミオロメン.txt"
+    }
+  ]
+}
